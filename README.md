@@ -1,4 +1,4 @@
-# Rodeo Wallet Currency Converter 🌍💰
+# Rodeo Wallet Currency Converter 💰
 
 ![Rodeo Wallet Conversion Preview](feature.png)
 
@@ -66,3 +66,4 @@ The extension icon (`icon128.png`) represents a minimal currency theme — you c
 
 **Built for Rodeo creators and collectors who value simplicity.**
 *Convert smarter. Create freely.* 🖤
+
