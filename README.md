@@ -65,5 +65,6 @@ The extension icon (`icon128.png`) represents a minimal currency theme — you c
 ---
 
 **Built for Rodeo creators and collectors who value simplicity.**
-*Convert smarter. Create freely.* 🖤
+*Convert smarter. Create freely.* 🖤💫
+
 
