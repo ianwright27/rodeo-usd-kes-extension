@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Rodeo Currency Converter",
+  "version": "0.1",
+  "description": "Appends KES conversion next to USD prices on the Rodeo Web3 art platform.",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "storage",
+    "https://api.exchangerate-api.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.rodeo.club/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
